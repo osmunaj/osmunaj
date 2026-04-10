@@ -1,8 +1,16 @@
-## Hello, World 👋
+# Hello, World 👋
 
-My name is Ari Osmun, and I'm a software developer! 
-I'm currently working on my bachelors degree in Computer Science, with a minor in Data Science. 
+&emsp;My name is Ari Osmun, and I'm a software developer! 
+I'm currently working on my bachelors degree in Computer Science, with a minor in Data Science at Montana State University.
 If you have any questions for me or are interested in further contact for employment opportunities, you can reach me at osmunaj@gmail.com.
+
+## Tech Stack
+### Back End
+Java, Python, Javascript, C#
+### Front End
+HTML, CSS
+### Database
+SQL
 
 For more information, visit my portfolio at https://arimsu.org/. 
 <!--
