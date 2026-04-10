@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello, World 👋
 
+My name is Ari Osmun, and I'm a software developer! 
+I'm currently working on my bachelors degree in Computer Science, with a minor in Data Science. 
+If you have any questions for me or are interested in further contact for employment opportunities, you can reach me at osmunaj@gmail.com.
+
+For more information, visit my portfolio at https://arimsu.org/. 
 <!--
 **osmunaj/osmunaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
