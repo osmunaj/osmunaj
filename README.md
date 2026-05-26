@@ -6,9 +6,9 @@ If you have any questions for me or are interested in further contact for employ
 
 ## Tech Stack
 ### Back End
-Java, Python, Javascript, C#
+Java, Python, C#
 ### Front End
-HTML, CSS
+HTML, CSS, Javascript
 ### Database
 SQL
 
